@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://school-instagram.vercel.app/sitemap.xml
